@@ -77,4 +77,4 @@ To check if everything is on the right track:
   - Constants https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Constants
 
 ## Project Description
-This is the project for the CIS 566.
+This is the project for the CIS 566 procedual computer graphics.
